@@ -23,7 +23,7 @@ puts "This is fun."
 
 puts "\n"
 
-#Quest 3
+# / Quest 3
 
 puts "The symbol # 'Octothorpe' disables the particular line of code. That line won't be executed. So the symbol is used to disable a line or giving any comments"
 
