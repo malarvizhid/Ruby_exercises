@@ -14,13 +14,13 @@ loop do
 		puts "Weird"
 	# If number is even checking other conditions
 	else 
-		if user_input>=3 && user_input<=6
+		if user_input >= 3 && user_input <= 6
 			puts "Not Weird"
 		end
-		if user_input>=7 && user_input<=20
+		if user_input >= 7 && user_input <= 20
 			puts "Weird"
 		end
-		if user_input>20
+		if user_input > 20
 			puts "Not Weird"
 		end
 	end
